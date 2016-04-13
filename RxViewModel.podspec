@@ -25,7 +25,7 @@ Long story short: a blatant «imitation» of `ReactiveViewModel `using `RxCocoa`
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
-  s.dependency 'RxCocoa', '~> 2.2.0'
-  s.dependency 'RxSwift', '~> 2.2.0'
+  s.dependency 'RxCocoa', '~> 2.2'
+  s.dependency 'RxSwift', '~> 2.2'
   s.frameworks = 'Foundation'
 end
